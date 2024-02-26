@@ -1,0 +1,15 @@
+C:\Projects\Faculty\Faculty.Entities\bin\Debug\net7.0\Faculty.Entities.deps.json
+C:\Projects\Faculty\Faculty.Entities\bin\Debug\net7.0\Faculty.Entities.dll
+C:\Projects\Faculty\Faculty.Entities\bin\Debug\net7.0\Faculty.Entities.pdb
+C:\Projects\Faculty\Faculty.Entities\bin\Debug\net7.0\Faculty.Common.dll
+C:\Projects\Faculty\Faculty.Entities\bin\Debug\net7.0\Faculty.Common.pdb
+C:\Projects\Faculty\Faculty.Entities\obj\Debug\net7.0\Faculty.Entities.csproj.AssemblyReference.cache
+C:\Projects\Faculty\Faculty.Entities\obj\Debug\net7.0\Faculty.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Faculty\Faculty.Entities\obj\Debug\net7.0\Faculty.Entities.AssemblyInfoInputs.cache
+C:\Projects\Faculty\Faculty.Entities\obj\Debug\net7.0\Faculty.Entities.AssemblyInfo.cs
+C:\Projects\Faculty\Faculty.Entities\obj\Debug\net7.0\Faculty.Entities.csproj.CoreCompileInputs.cache
+C:\Projects\Faculty\Faculty.Entities\obj\Debug\net7.0\Faculty.Entities.csproj.CopyComplete
+C:\Projects\Faculty\Faculty.Entities\obj\Debug\net7.0\Faculty.Entities.dll
+C:\Projects\Faculty\Faculty.Entities\obj\Debug\net7.0\refint\Faculty.Entities.dll
+C:\Projects\Faculty\Faculty.Entities\obj\Debug\net7.0\Faculty.Entities.pdb
+C:\Projects\Faculty\Faculty.Entities\obj\Debug\net7.0\ref\Faculty.Entities.dll

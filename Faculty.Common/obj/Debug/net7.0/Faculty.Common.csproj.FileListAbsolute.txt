@@ -1,0 +1,11 @@
+C:\Projects\Faculty\Faculty.Common\bin\Debug\net7.0\Faculty.Common.deps.json
+C:\Projects\Faculty\Faculty.Common\bin\Debug\net7.0\Faculty.Common.dll
+C:\Projects\Faculty\Faculty.Common\bin\Debug\net7.0\Faculty.Common.pdb
+C:\Projects\Faculty\Faculty.Common\obj\Debug\net7.0\Faculty.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Faculty\Faculty.Common\obj\Debug\net7.0\Faculty.Common.AssemblyInfoInputs.cache
+C:\Projects\Faculty\Faculty.Common\obj\Debug\net7.0\Faculty.Common.AssemblyInfo.cs
+C:\Projects\Faculty\Faculty.Common\obj\Debug\net7.0\Faculty.Common.csproj.CoreCompileInputs.cache
+C:\Projects\Faculty\Faculty.Common\obj\Debug\net7.0\Faculty.Common.dll
+C:\Projects\Faculty\Faculty.Common\obj\Debug\net7.0\refint\Faculty.Common.dll
+C:\Projects\Faculty\Faculty.Common\obj\Debug\net7.0\Faculty.Common.pdb
+C:\Projects\Faculty\Faculty.Common\obj\Debug\net7.0\ref\Faculty.Common.dll
